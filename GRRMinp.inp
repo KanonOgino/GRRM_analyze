@@ -1,0 +1,17 @@
+ &input
+  filename1 = 'Fe46_DC_list.log'
+  filename2 = 'Fe46_EQ_list.log'
+  filename3 = 'Fe46_TS_list.log'
+  natom = 9
+  nos = "Fe46"
+  charge = 1
+  spin = 4
+  gauswitch = .false.
+  calcswitch = .false.
+  mem = 8
+  nproc = 4
+  oupfile = "exsam_stable"
+  DFT = "UB3LYP"
+  basis = "def2svpp"
+  cor = "GD3"
+ &end

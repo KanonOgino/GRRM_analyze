@@ -1,0 +1,5 @@
+nos1='s/Cal_Fe46_EQ_//g'
+nos2='s/Cal_Fe46_TS_//g'
+nos3='s/Cal_Fe46_DC_//g'
+nos4=Fe46
+path=~/0_interstellar/1_FeCH2++Me/99_result/Fe46opt
